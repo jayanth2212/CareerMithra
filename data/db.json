@@ -1,0 +1,100 @@
+{
+  "users": [
+    {
+      "id": "1f54563d-9d27-46c3-a604-26871fb3444f",
+      "fullName": "JAYANTH",
+      "email": "abc@gmail.com",
+      "passwordHash": "ede856bee852ac09466b9bb7abb32f51:ca0f9c8fbb1cd4ed98da36db6ac2d40ea4783e9fba0654e6e6cf71062ea510c9ba1b6cb2e5526a6b132802c92951bb16b5c4567654bd73c74cb36bf42cafe786",
+      "createdAt": "2026-04-22T05:07:54.384Z",
+      "onboardingComplete": true,
+      "profile": {
+        "education": "B.Tech in Computer Science & Engineering\n2023 – 2027\nGeethanjali College of Engineering & Technology, Hyderabad  |  CGPA: 8.32",
+        "skills": [
+          "React",
+          "Javascript",
+          "Python",
+          "Sql",
+          "Html",
+          "Css",
+          "Java",
+          "Go",
+          "Docker",
+          "Spring",
+          "Postgresql",
+          "Git",
+          "Rest Api",
+          "Machine Learning",
+          "Redis"
+        ],
+        "projects": "Smart Hospital Bed Allocation System\nSpring Boot · Kafka · Redis · PostgreSQL · WebSocket\n• Built a backend system to track hospital bed status in real time (Available, Occupied, Cleaning, Reserved)\nusing Spring Boot and a state machine approach.\n• Used Kafka to send bed status updates as events so ward dashboards get notified instantly without database\noverload.\n• Stored recent bed and user session data in Redis to speed up matching between incoming patients and\navailable beds.\n• Created REST APIs secured with JWT authentication and tested them using Postman and JUnit.",
+        "achievements": "• ICPC Chennai 2025: 5th Place – Multi-Provincial Contest\n• HackTheHammer 2024: 1st Place among 30+ teams\n• Code Builders 2025: 6th Place – Competitive Programming\n• DSA: Solved 300+ problems on LeetCode, CodeChef, and SmartInterviews\n• Organized the ALGORHYTHM coding event at BHASWARA 2K26",
+        "experience": "",
+        "certifications": "JAVA FUNDAMENTALS by ORCALE ACADEMY ",
+        "assessmentEnabled": false,
+        "resumeText": "MACHA JAYANTH \n+91 6300021278  |  23r11a05c2@gcet.edu.in  |  LinkedIn  |  GitHub  |  LeetCode  |  Hyderabad, India \n \nEducation \n \nB.Tech in Computer Science & Engineering \n2023 – 2027 \nGeethanjali College of Engineering & Technology, Hyderabad  |  CGPA: 8.32 \n \nTechnical Skills \n \nJava: OOPs, Collections, Exception Handling, Multithreading, Java 8 Streams \nBackend: Spring Boot, Spring MVC, REST APIs, Spring Security (JWT) \nDatabase: MySQL, PostgreSQL, Basic SQL (Joins, Queries) \nTools: Git, GitHub, Postman, IntelliJ IDEA, Docker (basic) \nOther: Salesforce (Apex, LWC, Flow Builder), Python, JavaScript, HTML/CSS \n \nProjects \n \nSmart Hospital Bed Allocation System \nSpring Boot · Kafka · Redis · PostgreSQL · WebSocket \n• Built a backend system to track hospital bed status in real time (Available, Occupied, Cleaning, Reserved) \nusing Spring Boot and a state machine approach. \n• Used Kafka to send bed status updates as events so ward dashboards get notified instantly without database \noverload. \n• Stored recent bed and user session data in Redis to speed up matching between incoming patients and \navailable beds. \n• Created REST APIs secured with JWT authentication and tested them using Postman and JUnit. \n \nAI Career Agent – Job Assistant \nPython · LangChain · GPT-4o-mini · Streamlit \n• Built an AI-powered tool that searches job portals and helps match job descriptions to a candidate's profile \nautomatically. \n• Added a skill gap feature using LangChain that reads a job description and suggests what skills to learn. \n• Created a simple Streamlit dashboard to track job applications and email follow-ups. \n \nAgriSure – Crop Insurance App \nPython · React.js · Scikit-Learn · Blockchain \n• Developed a web app that uses a machine learning model (Random Forest) to predict crop yield and help \nvalidate insurance claims. \n• Used smart contracts to keep insurance claim records transparent and tamper-proof. \n \nTalentTrack – Recruitment System \nSalesforce · Apex · LWC · Flow Builder \n• Built on Salesforce to manage the hiring process from application to offer, using custom objects and flows. \n• Automated email alerts to hiring managers when application status changes using Record-Triggered Flows. \n \nAchievements \n \n• ICPC Chennai 2025: 5th Place – Multi-Provincial Contest \n• HackTheHammer 2024: 1st Place among 30+ teams \n• Code Builders 2025: 6th Place – Competitive Programming \n• DSA: Solved 300+ problems on LeetCode, CodeChef, and SmartInterviews \n• Organized the ALGORHYTHM coding event at BHASWARA 2K26 \n\n"
+      }
+    },
+    {
+      "id": "9d143098-70a5-488a-92ea-373e31123771",
+      "fullName": "rishi",
+      "email": "jaynani2212@gmail.com",
+      "passwordHash": "8cbc0460923d2f6c4d7d33f8a2cd7f50:93e629f8ac99af20a84703e8c56407b93a79477dc73794a07a70f50c29f53bb2b6dbfda3552751dfe3b3fdc883666b8a17953b8cda83674ee644215ba16e3580",
+      "createdAt": "2026-04-22T13:59:53.217Z",
+      "onboardingComplete": true,
+      "profile": {
+        "education": "Geethanjali College of Engineering and Technology\nB.Tech in Computer Science and Engineering\n2023 – 2027 | CGPA: 8.21\nTS MODEL JUNIOR COLLEGE, GADDIPALLY\nIntermediate (12th Grade)\n2022 | Percentage: 83.2%\nTS MODEL SCHOOL, GADDIPALLY\nHigh School (10th Grade)\n2020 | Percentage: 100%",
+        "skills": [
+          "Javascript",
+          "Sql",
+          "Html",
+          "Css",
+          "Java",
+          "Go"
+        ],
+        "projects": "1) Agrisure AI – Decentralized Crop Insurance & Subsidy Management System\nBlockchain-based platform with AI verification for smart claim recording and audit\ntrails.",
+        "achievements": "•\n1st Prize in HACKTHEHAMMER, BHASWARA 2K24\n•\nParticipated in Smart India Hackathon and GEENOVATE 2K25 (Hackathon)\n•\nParticipated in Cyber Congress 2K24",
+        "experience": "",
+        "certifications": "•\nCLA: Programming in C\n•\nCLP: Advanced Programming in C",
+        "assessmentEnabled": false,
+        "resumeText": "MACHA JAYANTH  \nPhone: 6300021278  \nEmail: 23r11a05c2@gcet.edu.in  \nLinkedIn : (12) JAYANTH MACHA | LinkedIn\n  \nObjective  \nAs a passionate and driven B.Tech student specializing in Computer Science, I am eager to \nleverage my skills in programming, web development, and problem-solving to contribute to \ninnovative projects. I seek opportunities where I can grow professionally, collaborate with \ndiverse teams, and apply my knowledge of modern technologies like MERN stack and Java \nto create impactful solutions. With a strong foundation in coding and a desire to continuously \nlearn, I aim to make a positive difference in the tech world while enhancing my capabilities \nfor future challenges. \n  \nEducation  \nGeethanjali College of Engineering and Technology  \nB.Tech in Computer Science and Engineering  \n2023 – 2027 | CGPA: 8.21 \nTS MODEL JUNIOR COLLEGE, GADDIPALLY  \nIntermediate (12th Grade)  \n2022 | Percentage: 83.2%  \nTS MODEL SCHOOL, GADDIPALLY  \nHigh School (10th Grade)  \n2020 | Percentage: 100%  \n  \nTechnical Skills  \n \n•  Programming Languages: C, Java  \n• \nWeb Technologies: HTML, CSS, JavaScript  \n  \nProjects  \n1) Agrisure AI – Decentralized Crop Insurance & Subsidy Management System \n          Blockchain-based platform with AI verification for smart claim recording and audit \ntrails. \n\n• \nYield prediction and integration with local market data for approximate crop \nvaluation. \n2) TutorFinder Website  \n• \nPlatform enabling students to find tutors and graduates to register as tutors. \n• \nFacilitated academic collaboration and seamless tutor-student matching. \n3) NextGen Authentication System  \n• \nDesigned a secure, modern authentication mechanism compared to traditional \nmethods. \n• \nFocused on enhanced security and usability in networked environments. \n4) Personal Finance Tracker  \n• \nDesktop application to record, categorize, and analyze personal financial transactions. \n• \nProvided insights to optimize savings and track spending patterns. \n5) Cricket Scoreboard  \n• \nInteractive cricket scoring system tracking runs, overs, and wickets. \n• \nEnabled real-time score management through a command-line interface. \n \n  \nAchievements  \n• \n1st Prize in HACKTHEHAMMER, BHASWARA 2K24  \n• \nParticipated in Smart India Hackathon and GEENOVATE 2K25 (Hackathon)  \n• \nParticipated in Cyber Congress 2K24  \n  \nCertifications  \n• \nCLA: Programming in C  \n• \nCLP: Advanced Programming in C  \n \n•  Database Programming with MySQL: Oracle Academy  \n \n  \n\n"
+      }
+    }
+  ],
+  "applications": [
+    {
+      "id": "app-1776843686577",
+      "userId": "1f54563d-9d27-46c3-a604-26871fb3444f",
+      "opportunityId": "job-21521673",
+      "title": "Sr Software Engineer - Frontend",
+      "company": "Uber",
+      "appliedDate": "2026-04-22",
+      "deadline": "2026-05-21",
+      "status": "Applied",
+      "followUpReminder": "Follow up in 5 days",
+      "matchScore": 96,
+      "matchedSkills": [
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "missingSkills": []
+    },
+    {
+      "id": "app-1776872043124",
+      "userId": "1f54563d-9d27-46c3-a604-26871fb3444f",
+      "opportunityId": "job-21587983",
+      "title": "Revit Designer-MEP",
+      "company": "Bechtel",
+      "appliedDate": "2026-04-22",
+      "deadline": "2026-05-16",
+      "status": "Applied",
+      "followUpReminder": "Follow up in 5 days",
+      "matchScore": 100,
+      "matchedSkills": [
+        "Go"
+      ],
+      "missingSkills": []
+    }
+  ]
+}

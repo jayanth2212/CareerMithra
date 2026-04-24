@@ -1,0 +1,110 @@
+{
+  "users": [
+    {
+      "id": "dcb5e95d-d976-474e-abf3-85aaf99c8464",
+      "fullName": "Test User",
+      "email": "test.user@example.com",
+      "passwordHash": "aa09ef03fed85af7ce261d6a3a457dbf:d2637bb6a72ef05c8f2b3fbdf9c595475098c86b4e0a5c197e5b32b57da8d47cabb8a1d6fe719d042eb95f67f904fdc67089f18a6eeb86d5de5b5d65c67246f8",
+      "createdAt": "2026-04-17T07:02:38.642Z",
+      "onboardingComplete": true,
+      "profile": {
+        "academicDetails": "B.Tech CSE",
+        "skills": [
+          "React",
+          "TypeScript",
+          "Python"
+        ],
+        "interests": [
+          "Web Development"
+        ],
+        "careerGoals": "Software Engineer",
+        "assessmentEnabled": true,
+        "aptitudeScore": 82,
+        "personalityType": "INTJ",
+        "resumeText": "Built React dashboards and Python APIs with measurable outcomes."
+      }
+    },
+    {
+      "id": "3bccf9ad-7ed8-49d1-b6b0-f57e8dadd285",
+      "fullName": "Nani",
+      "email": "abc@gmail.com",
+      "passwordHash": "f55c6a53b8944feb6683fc4d05baa7ab:72448d03b8978ed341251e1f3d3503f59d05abb3a5794bbdc7ac5d460bcea058f57b880ecb007616707ff572389d63d7ead801bebf9d9c0541a1be319722674d",
+      "createdAt": "2026-04-17T14:05:59.368Z",
+      "onboardingComplete": true,
+      "profile": {
+        "education": "B.Tech in Computer Science & Engineering\n2027\nGeethanjali College of Engineering & Technology | CGPA: 8.32",
+        "skills": [
+          "React",
+          "Javascript",
+          "Python",
+          "Sql",
+          "Html",
+          "Css",
+          "Java",
+          "Go",
+          "Git"
+        ],
+        "projects": "AI Career Agent – Autonomous Job & Internship Assistant | CrewAI, LangChain, GPT-4o-mini, Streamlit\n•\nBuilt a 4-phase agentic AI pipeline (Discover → Match → Apply → Track) that autonomously searches job\nportals and auto-submits applications with an 80%+ match accuracy target.\n•\nImplemented an AI-powered Skill Gap Coach using LangChain that analyzes JD-to-profile mismatches,\nidentifies skillgaps, and generates personalized prep reports with mock interview prompts and company intel.\n•\nDeveloped a real-time Streamlit tracking dashboard with SMTP/IMAP email integration, reducing missed\nfollow-ups by 40% and saving 40+ hours/week of manual job searching effort.\nAgriSure – AI & Blockchain Crop Insurance | React.js, Python, Blockchain Integration\n•\nDeveloped a decentralized application (dApp) using Smart Contracts to create transparent, tamper-proof audit\ntrails for insurance claims.\n•\nIntegrated a Random Forest model (Scikit-Learn) to predict crop yields based on historical weather data,\nassisting in accurate claim validation.\n•\nReduced verification time significantly by automating the approval workflow between farmers and insurers.\nTalentTrack – Recruitment Management System | Salesforce Platform, Apex, LWC\n•\nDesigned a custom data model using Standard and Custom Objects to track the hiring lifecycle.\n•\nBuilt a Record-Triggered Flow to automatically update application statuses and send email alerts to hiring\nmanagers, eliminating manual follow-ups.",
+        "achievements": "•\n5th Place : ICPC Chennai Multi Provisional Contest 2025.\n•\n1st Place (out of 30+ Teams):  HackTheHammer 2024 (Coding Event).\n•\n6th Place: Code Builders 2025 (Competitive Programming Event).\n•\nProblem Solving: Solved 300+ Problems across LeetCode, CodeChef, SmartInterviews, and Hive.\n•\nOrganized a Coding Event ALGORHYTHM in BHASWARA 2K26.",
+        "experience": "",
+        "certifications": "",
+        "assessmentEnabled": false,
+        "resumeText": "MACHA JAYANTH \nHyderabad, India | +91 6300021278 | 23r11a05c2@gcet.edu.in \nlinkedin.com/in/jayanthmacha  |  github.com/jayanth2212  |  leetcode.com/u/jaynani2212/ \n \nPROFESSIONAL PROFILE \nComputer Science undergraduate (Class of 2027) with a strong foundation in Data Structures and Algorithms. \nPassionate about the Salesforce Ecosystem, with practical proficiency in Apex, Lightning,Visualforce, and Flow \nAutomation. Proven problem-solver (ICPC Top 5 Finalist) seeking to leverage logic and development skills in a \nSalesforce Developer or Administrator role. \nTECHNICAL SKILLS \nSalesforce Platform: VisualForce,Apex, LWC,Flow Builder, SOQL, Security (Profiles, Roles), Object Modeling. \nProgramming: Java (Strong DSA), JavaScript, SQL, Python. \nWeb & Tools: HTML/CSS. \nPROJECTS \nAI Career Agent – Autonomous Job & Internship Assistant | CrewAI, LangChain, GPT-4o-mini, Streamlit \n• \nBuilt a 4-phase agentic AI pipeline (Discover → Match → Apply → Track) that autonomously searches job \nportals and auto-submits applications with an 80%+ match accuracy target. \n• \nImplemented an AI-powered Skill Gap Coach using LangChain that analyzes JD-to-profile mismatches, \nidentifies skillgaps, and generates personalized prep reports with mock interview prompts and company intel. \n• \nDeveloped a real-time Streamlit tracking dashboard with SMTP/IMAP email integration, reducing missed \nfollow-ups by 40% and saving 40+ hours/week of manual job searching effort. \nAgriSure – AI & Blockchain Crop Insurance | React.js, Python, Blockchain Integration \n• \nDeveloped a decentralized application (dApp) using Smart Contracts to create transparent, tamper-proof audit \ntrails for insurance claims. \n• \nIntegrated a Random Forest model (Scikit-Learn) to predict crop yields based on historical weather data, \nassisting in accurate claim validation. \n• \nReduced verification time significantly by automating the approval workflow between farmers and insurers. \nTalentTrack – Recruitment Management System | Salesforce Platform, Apex, LWC \n• \nDesigned a custom data model using Standard and Custom Objects to track the hiring lifecycle. \n• \nBuilt a Record-Triggered Flow to automatically update application statuses and send email alerts to hiring \nmanagers, eliminating manual follow-ups. \nACHIEVEMENTS \n• \n5th Place : ICPC Chennai Multi Provisional Contest 2025. \n• \n1st Place (out of 30+ Teams):  HackTheHammer 2024 (Coding Event). \n• \n6th Place: Code Builders 2025 (Competitive Programming Event). \n• \nProblem Solving: Solved 300+ Problems across LeetCode, CodeChef, SmartInterviews, and Hive. \n• \nOrganized a Coding Event ALGORHYTHM in BHASWARA 2K26. \n \n \nEDUCATION \nB.Tech in Computer Science & Engineering \n 2027 \nGeethanjali College of Engineering & Technology | CGPA: 8.32 \n \n \n\n"
+      }
+    },
+    {
+      "id": "58dda184-9fcb-4c22-93bf-6fc778bd37e3",
+      "fullName": "JAYANTH MACHA",
+      "email": "xyz@gmail.com",
+      "passwordHash": "e7f09441c4ee7e7f596b39aa5f7cf2fe:9b3638db831aa0065c255f3bf6c2b9297ee3ba0d91dce7cc3ef8ca9d92d4c9d1b15b96a5ffedc35bfa5d90f3d2ba1fe20ab56c0f753d2a3d108b12e4983f44db",
+      "createdAt": "2026-04-17T15:00:42.421Z",
+      "onboardingComplete": true,
+      "profile": {
+        "education": "Geethanjali College of Engineering and Technology\nB.Tech in Computer Science and Engineering\n2023 – 2027 | CGPA: 8.21\nTS MODEL JUNIOR COLLEGE, GADDIPALLY\nIntermediate (12th Grade)\n2022 | Percentage: 83.2%\nTS MODEL SCHOOL, GADDIPALLY\nHigh School (10th Grade)\n2020 | Percentage: 100%",
+        "skills": [
+          "Javascript",
+          "Sql",
+          "Html",
+          "Css",
+          "Java",
+          "Go"
+        ],
+        "projects": "1) Agrisure AI – Decentralized Crop Insurance & Subsidy Management System\nBlockchain-based platform with AI verification for smart claim recording and audit\ntrails.",
+        "achievements": "•\n1st Prize in HACKTHEHAMMER, BHASWARA 2K24\n•\nParticipated in Smart India Hackathon and GEENOVATE 2K25 (Hackathon)\n•\nParticipated in Cyber Congress 2K24",
+        "experience": "",
+        "certifications": "•\nCLA: Programming in C\n•\nCLP: Advanced Programming in C",
+        "assessmentEnabled": false,
+        "resumeText": "MACHA JAYANTH  \nPhone: 6300021278  \nEmail: 23r11a05c2@gcet.edu.in  \nLinkedIn : (12) JAYANTH MACHA | LinkedIn\n  \nObjective  \nAs a passionate and driven B.Tech student specializing in Computer Science, I am eager to \nleverage my skills in programming, web development, and problem-solving to contribute to \ninnovative projects. I seek opportunities where I can grow professionally, collaborate with \ndiverse teams, and apply my knowledge of modern technologies like MERN stack and Java \nto create impactful solutions. With a strong foundation in coding and a desire to continuously \nlearn, I aim to make a positive difference in the tech world while enhancing my capabilities \nfor future challenges. \n  \nEducation  \nGeethanjali College of Engineering and Technology  \nB.Tech in Computer Science and Engineering  \n2023 – 2027 | CGPA: 8.21 \nTS MODEL JUNIOR COLLEGE, GADDIPALLY  \nIntermediate (12th Grade)  \n2022 | Percentage: 83.2%  \nTS MODEL SCHOOL, GADDIPALLY  \nHigh School (10th Grade)  \n2020 | Percentage: 100%  \n  \nTechnical Skills  \n \n•  Programming Languages: C, Java  \n• \nWeb Technologies: HTML, CSS, JavaScript  \n  \nProjects  \n1) Agrisure AI – Decentralized Crop Insurance & Subsidy Management System \n          Blockchain-based platform with AI verification for smart claim recording and audit \ntrails. \n\n• \nYield prediction and integration with local market data for approximate crop \nvaluation. \n2) TutorFinder Website  \n• \nPlatform enabling students to find tutors and graduates to register as tutors. \n• \nFacilitated academic collaboration and seamless tutor-student matching. \n3) NextGen Authentication System  \n• \nDesigned a secure, modern authentication mechanism compared to traditional \nmethods. \n• \nFocused on enhanced security and usability in networked environments. \n4) Personal Finance Tracker  \n• \nDesktop application to record, categorize, and analyze personal financial transactions. \n• \nProvided insights to optimize savings and track spending patterns. \n5) Cricket Scoreboard  \n• \nInteractive cricket scoring system tracking runs, overs, and wickets. \n• \nEnabled real-time score management through a command-line interface. \n \n  \nAchievements  \n• \n1st Prize in HACKTHEHAMMER, BHASWARA 2K24  \n• \nParticipated in Smart India Hackathon and GEENOVATE 2K25 (Hackathon)  \n• \nParticipated in Cyber Congress 2K24  \n  \nCertifications  \n• \nCLA: Programming in C  \n• \nCLP: Advanced Programming in C  \n \n•  Database Programming with MySQL: Oracle Academy  \n \n  \n\n"
+      }
+    },
+    {
+      "id": "2454a4c0-18ce-428d-8fd1-048ea04a64f8",
+      "fullName": "jayanth",
+      "email": "xyz123@gmail.com",
+      "passwordHash": "3cb9d3406df480a4ca4c626113aa8d6a:adca9afe511c36f0f422f580c7925465b95e075b3b4845e00eb3e1decb1f6fbba7d1e17deb4413a7e5e1f19c185112c0eb7097197b11e9361fc49427ac1db6dd",
+      "createdAt": "2026-04-17T15:06:42.885Z",
+      "onboardingComplete": true,
+      "profile": {
+        "education": "B.Tech in Computer Science & Engineering\n2027\nGeethanjali College of Engineering & Technology | CGPA: 8.32",
+        "skills": [
+          "React",
+          "Javascript",
+          "Python",
+          "Sql",
+          "Html",
+          "Css",
+          "Java",
+          "Go",
+          "Git"
+        ],
+        "projects": "AI Career Agent – Autonomous Job & Internship Assistant | CrewAI, LangChain, GPT-4o-mini, Streamlit\n•\nBuilt a 4-phase agentic AI pipeline (Discover → Match → Apply → Track) that autonomously searches job\nportals and auto-submits applications with an 80%+ match accuracy target.\n•\nImplemented an AI-powered Skill Gap Coach using LangChain that analyzes JD-to-profile mismatches,\nidentifies skillgaps, and generates personalized prep reports with mock interview prompts and company intel.\n•\nDeveloped a real-time Streamlit tracking dashboard with SMTP/IMAP email integration, reducing missed\nfollow-ups by 40% and saving 40+ hours/week of manual job searching effort.\nAgriSure – AI & Blockchain Crop Insurance | React.js, Python, Blockchain Integration\n•\nDeveloped a decentralized application (dApp) using Smart Contracts to create transparent, tamper-proof audit\ntrails for insurance claims.\n•\nIntegrated a Random Forest model (Scikit-Learn) to predict crop yields based on historical weather data,\nassisting in accurate claim validation.\n•\nReduced verification time significantly by automating the approval workflow between farmers and insurers.\nTalentTrack – Recruitment Management System | Salesforce Platform, Apex, LWC\n•\nDesigned a custom data model using Standard and Custom Objects to track the hiring lifecycle.\n•\nBuilt a Record-Triggered Flow to automatically update application statuses and send email alerts to hiring\nmanagers, eliminating manual follow-ups.",
+        "achievements": "•\n5th Place : ICPC Chennai Multi Provisional Contest 2025.\n•\n1st Place (out of 30+ Teams):  HackTheHammer 2024 (Coding Event).\n•\n6th Place: Code Builders 2025 (Competitive Programming Event).\n•\nProblem Solving: Solved 300+ Problems across LeetCode, CodeChef, SmartInterviews, and Hive.\n•\nOrganized a Coding Event ALGORHYTHM in BHASWARA 2K26.",
+        "experience": "",
+        "certifications": "",
+        "assessmentEnabled": false,
+        "resumeText": "MACHA JAYANTH \nHyderabad, India | +91 6300021278 | 23r11a05c2@gcet.edu.in \nlinkedin.com/in/jayanthmacha  |  github.com/jayanth2212  |  leetcode.com/u/jaynani2212/ \n \nPROFESSIONAL PROFILE \nComputer Science undergraduate (Class of 2027) with a strong foundation in Data Structures and Algorithms. \nPassionate about the Salesforce Ecosystem, with practical proficiency in Apex, Lightning,Visualforce, and Flow \nAutomation. Proven problem-solver (ICPC Top 5 Finalist) seeking to leverage logic and development skills in a \nSalesforce Developer or Administrator role. \nTECHNICAL SKILLS \nSalesforce Platform: VisualForce,Apex, LWC,Flow Builder, SOQL, Security (Profiles, Roles), Object Modeling. \nProgramming: Java (Strong DSA), JavaScript, SQL, Python. \nWeb & Tools: HTML/CSS. \nPROJECTS \nAI Career Agent – Autonomous Job & Internship Assistant | CrewAI, LangChain, GPT-4o-mini, Streamlit \n• \nBuilt a 4-phase agentic AI pipeline (Discover → Match → Apply → Track) that autonomously searches job \nportals and auto-submits applications with an 80%+ match accuracy target. \n• \nImplemented an AI-powered Skill Gap Coach using LangChain that analyzes JD-to-profile mismatches, \nidentifies skillgaps, and generates personalized prep reports with mock interview prompts and company intel. \n• \nDeveloped a real-time Streamlit tracking dashboard with SMTP/IMAP email integration, reducing missed \nfollow-ups by 40% and saving 40+ hours/week of manual job searching effort. \nAgriSure – AI & Blockchain Crop Insurance | React.js, Python, Blockchain Integration \n• \nDeveloped a decentralized application (dApp) using Smart Contracts to create transparent, tamper-proof audit \ntrails for insurance claims. \n• \nIntegrated a Random Forest model (Scikit-Learn) to predict crop yields based on historical weather data, \nassisting in accurate claim validation. \n• \nReduced verification time significantly by automating the approval workflow between farmers and insurers. \nTalentTrack – Recruitment Management System | Salesforce Platform, Apex, LWC \n• \nDesigned a custom data model using Standard and Custom Objects to track the hiring lifecycle. \n• \nBuilt a Record-Triggered Flow to automatically update application statuses and send email alerts to hiring \nmanagers, eliminating manual follow-ups. \nACHIEVEMENTS \n• \n5th Place : ICPC Chennai Multi Provisional Contest 2025. \n• \n1st Place (out of 30+ Teams):  HackTheHammer 2024 (Coding Event). \n• \n6th Place: Code Builders 2025 (Competitive Programming Event). \n• \nProblem Solving: Solved 300+ Problems across LeetCode, CodeChef, SmartInterviews, and Hive. \n• \nOrganized a Coding Event ALGORHYTHM in BHASWARA 2K26. \n \n \nEDUCATION \nB.Tech in Computer Science & Engineering \n 2027 \nGeethanjali College of Engineering & Technology | CGPA: 8.32 \n \n \n\n"
+      }
+    }
+  ],
+  "applications": []
+}
